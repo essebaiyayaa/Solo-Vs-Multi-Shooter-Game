@@ -90,4 +90,4 @@ This game was developed by:
 
 ---
 
-Enjoy battling it out in the skies—whether solo or with friends! 🚀
+Enjoy battling it out in the skies—whether solo or with friends! 
