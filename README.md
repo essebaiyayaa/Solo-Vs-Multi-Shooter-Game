@@ -2,8 +2,6 @@
 
 This project is a 2D shooting game developed in **Java** using **Swing** for the graphical user interface. It offers both single-player and real-time multiplayer experiences, built upon a clean and modular architecture. The game combines gameplay logic, responsive UI, audio-visual effects, and real-time communication between players.
 
----
-
 ## Game Architecture
 
 The application is organized around several key components:
@@ -12,8 +10,6 @@ The application is organized around several key components:
 - **`AudioManager.java`**: Handles background music and sound effects
 - **`ScoreDatabase.java`**: Persists player scores in a local database
 - **Client-server system**: Enables **real-time multiplayer chat**
-
----
 
 ## Main Features
 
@@ -29,7 +25,6 @@ The application is organized around several key components:
 -  **Integrated chat**: Real-time player communication in multiplayer mode
 -  **Smooth animations**: Visual polish for shots, collisions, and effects
 
----
 
 ##  Technical Highlights
 
@@ -39,15 +34,12 @@ The application is organized around several key components:
 -  **Client-server architecture**: Ensures low-latency chat and interaction
 -  **Responsive UI**: Swing components enhanced with animation for fluid experience
 
----
-
 ##  Multimedia Resources
 
 -  **Custom sprites** for jets, projectiles, and explosion effects
 -  **Sound effects**: Shooting, explosions, and level transitions
 -  **Modern UI**: Smooth screen transitions and animations
 
----
 
 ##  Security &  Performance
 
@@ -57,7 +49,6 @@ The application is organized around several key components:
   - Thread separation for heavy computations
 -  Proper **cleanup** of all resources on game exit
 
----
 
 ##  Technologies Used
 
@@ -66,7 +57,6 @@ The application is organized around several key components:
 - **SQL** (score persistence via `ScoreDatabase`)
 - **Radmin VPN** (for establishing virtual multiplayer network)
 
----
 
 ##  Network Configuration
 
@@ -78,7 +68,6 @@ To enable multiplayer and real-time chat:
   - Simple and user-friendly network setup
   - Possibility to play remotely with friends
 
----
 
 ##  Authors
 
@@ -87,7 +76,3 @@ This game was developed by:
 - **ESSEBAIY Aya**
 - **TAFRAOUTI Sanae**   
 - **ELMESSAOUDI Fatima**
-
----
-
-Enjoy battling it out in the skies—whether solo or with friends! 
