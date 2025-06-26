@@ -17,8 +17,8 @@ The application is organized around several key components:
 
 ## Main Features
 
-- 🧱 **Level progression**: Difficulty increases through tiers (Beginner → Master)
-- ✈️ **Four unique aircrafts**:  
+-  **Level progression**: Difficulty increases through tiers (Beginner → Master)
+-  **Four unique aircrafts**:  
   - *MiG-51S*  
   - *F/A-28A*  
   - *Su-55*  
